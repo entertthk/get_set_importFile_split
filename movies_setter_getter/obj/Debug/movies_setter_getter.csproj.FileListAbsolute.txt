@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\getter_setter\movies_setter_getter\bin\Debug\movies_setter_getter.exe.config
+C:\Users\Laptop\Desktop\getter_setter\movies_setter_getter\bin\Debug\movies_setter_getter.exe
+C:\Users\Laptop\Desktop\getter_setter\movies_setter_getter\bin\Debug\movies_setter_getter.pdb
+C:\Users\Laptop\Desktop\getter_setter\movies_setter_getter\obj\Debug\movies_setter_getter.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\getter_setter\movies_setter_getter\obj\Debug\movies_setter_getter.exe
+C:\Users\Laptop\Desktop\getter_setter\movies_setter_getter\obj\Debug\movies_setter_getter.pdb

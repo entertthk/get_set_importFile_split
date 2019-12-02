@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\getter_setter\MatrjoshkaProject\obj\Debug\MatrjoshkaProject.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\getter_setter\MatrjoshkaProject\bin\Debug\MatrjoshkaProject.exe.config
+C:\Users\Laptop\Desktop\getter_setter\MatrjoshkaProject\bin\Debug\MatrjoshkaProject.exe
+C:\Users\Laptop\Desktop\getter_setter\MatrjoshkaProject\bin\Debug\MatrjoshkaProject.pdb
+C:\Users\Laptop\Desktop\getter_setter\MatrjoshkaProject\obj\Debug\MatrjoshkaProject.exe
+C:\Users\Laptop\Desktop\getter_setter\MatrjoshkaProject\obj\Debug\MatrjoshkaProject.pdb

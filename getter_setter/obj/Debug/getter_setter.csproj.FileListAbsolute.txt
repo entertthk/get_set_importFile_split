@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\getter_setter\getter_setter\bin\Debug\getter_setter.exe.config
+C:\Users\Laptop\Desktop\getter_setter\getter_setter\bin\Debug\getter_setter.exe
+C:\Users\Laptop\Desktop\getter_setter\getter_setter\bin\Debug\getter_setter.pdb
+C:\Users\Laptop\Desktop\getter_setter\getter_setter\obj\Debug\getter_setter.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\getter_setter\getter_setter\obj\Debug\getter_setter.exe
+C:\Users\Laptop\Desktop\getter_setter\getter_setter\obj\Debug\getter_setter.pdb
